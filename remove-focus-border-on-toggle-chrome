@@ -1,0 +1,6 @@
+/* CSS - Remove the focus border on the Elementor menu toggle on Chrome browsers */
+.elementor-menu-toggle:focus {
+  outline: 0;
+  outline-color: transparent;
+  outline-style: none;
+}
